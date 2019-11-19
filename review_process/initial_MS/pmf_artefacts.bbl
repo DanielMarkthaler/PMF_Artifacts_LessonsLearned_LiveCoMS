@@ -1,0 +1,882 @@
+\begin{thebibliography}{97}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\urlprefix}{}
+\providecommand{\doiprefix}{https://doi.org/}
+
+\bibitem[{Leelananda and Lindert(2016)Leelananda, Sumudu P and Lindert,
+  Steffen}]{leelananda2016computational}
+\textbf{\color{LiveCoMSMediumGrey} Leelananda SP}, Lindert S.
+\newblock Computational methods in drug discovery.
+\newblock Beilstein J Org Chem.  2016; 12(1):2694--2718.
+\newblock \href{https://doi.org/10.3762/bjoc.12.267}{\doiprefix
+  \detokenize{10.3762/bjoc.12.267}}.
+
+\bibitem[{Gilson et~al.(1997)Gilson, Michael K and Given, James A and Bush,
+  Bruce L and McCammon, J Andrew}]{gilson1997statistical}
+\textbf{\color{LiveCoMSMediumGrey} Gilson MK}, Given JA, Bush BL, McCammon JA.
+\newblock The statistical-thermodynamic basis for computation of binding
+  affinities: a critical review.
+\newblock Biophys J.  1997; 72(3):1047--1069.
+\newblock \href{https://doi.org/10.1016/S0006-3495(97)78756-3}{\doiprefix
+  \detokenize{10.1016/S0006-3495(97)78756-3}}.
+
+\bibitem[{Boresch et~al.(2003)Boresch, Stefan and Tettinger, Franz and Leitgeb,
+  Martin and Karplus, Martin}]{boresch2003absolute}
+\textbf{\color{LiveCoMSMediumGrey} Boresch S}, Tettinger F, Leitgeb M, Karplus
+  M.
+\newblock Absolute binding free energies: a quantitative approach for their
+  calculation.
+\newblock J Phys Chem B.  2003; 107(35):9535--9551.
+\newblock \href{https://doi.org/10.1021/jp0217839}{\doiprefix
+  \detokenize{10.1021/jp0217839}}.
+
+\bibitem[{Pohorille et~al.(2010)Pohorille, Andrew and Jarzynski, Christopher
+  and Chipot, Christophe}]{pohorille2010good}
+\textbf{\color{LiveCoMSMediumGrey} Pohorille A}, Jarzynski C, Chipot C.
+\newblock Good practices in free-energy calculations.
+\newblock J Phys Chem B.  2010; 114(32):10235--10253.
+\newblock \href{https://doi.org/10.1021/jp102971x}{\doiprefix
+  \detokenize{10.1021/jp102971x}}.
+
+\bibitem[{Pople(1999)Pople, John A}]{pople1999nobel}
+\textbf{\color{LiveCoMSMediumGrey} Pople JA}.
+\newblock Nobel lecture: Quantum chemical models.
+\newblock Rev Mod Phys.  1999; 71(5):1267.
+\newblock \href{https://doi.org/10.1103/RevModPhys.71.1267}{\doiprefix
+  \detokenize{10.1103/RevModPhys.71.1267}}.
+
+\bibitem[{Rocklin et~al.(2013)Rocklin, Gabriel J and Mobley, David L and Dill,
+  Ken A}]{rocklin2013calculating}
+\textbf{\color{LiveCoMSMediumGrey} Rocklin GJ}, Mobley DL, Dill KA.
+\newblock Calculating the sensitivity and robustness of binding free energy
+  calculations to force field parameters.
+\newblock J Chem Theory Comput.  2013; 9(7):3072--3083.
+\newblock \href{https://doi.org/10.1021/ct400315q}{\doiprefix
+  \detokenize{10.1021/ct400315q}}.
+
+\bibitem[{Yin et~al.(2015)Yin, Jian and Fenley, Andrew T and Henriksen, Niel M
+  and Gilson, Michael K}]{yin2015toward}
+\textbf{\color{LiveCoMSMediumGrey} Yin J}, Fenley AT, Henriksen NM, Gilson MK.
+\newblock Toward improved force-field accuracy through sensitivity analysis of
+  host-guest binding thermodynamics.
+\newblock J Phys Chem B.  2015; 119(32):10145--10155.
+\newblock \href{https://doi.org/10.1021/acs.jpcb.5b04262}{\doiprefix
+  \detokenize{10.1021/acs.jpcb.5b04262}}.
+
+\bibitem[{Zuckerman(2011)Zuckerman, Daniel M}]{zuckerman2011equilibrium}
+\textbf{\color{LiveCoMSMediumGrey} Zuckerman DM}.
+\newblock Equilibrium sampling in biomolecular simulations.
+\newblock Annu Rev Biophys.  2011; 40(1):41--62.
+\newblock
+  \href{https://doi.org/10.1146/annurev-biophys-042910-155255}{\doiprefix
+  \detokenize{10.1146/annurev-biophys-042910-155255}}.
+
+\bibitem[{Christ et~al.(2010)Christ, Clara D and Mark, Alan E and van
+  Gunsteren, Wilfred F}]{christ2010basic}
+\textbf{\color{LiveCoMSMediumGrey} Christ CD}, Mark AE, van Gunsteren WF.
+\newblock Basic ingredients of free energy calculations: a review.
+\newblock J Comput Chem.  2010; 31(8):1569--1582.
+\newblock \href{https://doi.org/10.1002/jcc.21450}{\doiprefix
+  \detokenize{10.1002/jcc.21450}}.
+
+\bibitem[{van Gunsteren et~al.(2006)van Gunsteren, Wilfred F and Bakowies, Dirk
+  and Baron, Riccardo and Chandrasekhar, Indira and Christen, Markus and Daura,
+  Xavier and Gee, Peter and Geerke, Daan P and Gl{\"a}ttli, Alice and
+  H{\"u}nenberger, Philippe H and Kastenholz, Mika A and Oostenbrink, Chris and
+  Schenk, Merijn and Trzesniak, Daniel and van der Vegt, Nico F. A. and Yu,
+  Haibo B.}]{van2006biomolecular}
+\textbf{\color{LiveCoMSMediumGrey} van Gunsteren WF}, Bakowies D, Baron R,
+  Chandrasekhar I, Christen M, Daura X, Gee P, Geerke DP, Gl{\"a}ttli A,
+  H{\"u}nenberger PH, Kastenholz MA, Oostenbrink C, Schenk M, Trzesniak D,
+  van~der Vegt NFA, Yu HB.
+\newblock Biomolecular modeling: goals, problems, perspectives.
+\newblock Angew Chem Int Ed.  2006; 45(25):4064--4092.
+\newblock \href{https://doi.org/10.1002/anie.200502655}{\doiprefix
+  \detokenize{10.1002/anie.200502655}}.
+
+\bibitem[{K{\"o}nig and Brooks(2012)K{\"o}nig, Gerhard and Brooks, Bernard
+  R}]{konig2012predicting}
+\textbf{\color{LiveCoMSMediumGrey} K{\"o}nig G}, Brooks BR.
+\newblock Predicting binding affinities of host-guest systems in the SAMPL3
+  blind challenge: the performance of relative free energy calculations.
+\newblock J Comput Aided Mol Des.  2012; 26(5):543--550.
+\newblock \href{https://doi.org/10.1007/s10822-011-9525-y}{\doiprefix
+  \detokenize{10.1007/s10822-011-9525-y}}.
+
+\bibitem[{Wong-ekkabut and Karttunen(2016)Wong-ekkabut, Jirasak and Karttunen,
+  Mikko}]{wong2016good}
+\textbf{\color{LiveCoMSMediumGrey} Wong-ekkabut J}, Karttunen M.
+\newblock The good, the bad and the user in soft matter simulations.
+\newblock Biochim Biophys Acta.  2016; 1858(10):2529--2538.
+\newblock \href{https://doi.org/10.1016/j.bbamem.2016.02.004}{\doiprefix
+  \detokenize{10.1016/j.bbamem.2016.02.004}}.
+
+\bibitem[{Deng and Roux(2009)Deng, Yuqing and Roux,
+  Beno{\^\i}t}]{deng2009computations}
+\textbf{\color{LiveCoMSMediumGrey} Deng Y}, Roux B.
+\newblock Computations of standard binding free energies with molecular
+  dynamics simulations.
+\newblock J Phys Chem B.  2009; 113(8):2234--2246.
+\newblock \href{https://doi.org/10.1021/jp807701h}{\doiprefix
+  \detokenize{10.1021/jp807701h}}.
+
+\bibitem[{Markthaler et~al.(2017)Markthaler, Daniel and Gebhardt, Julia and
+  Jakobtorweihen, Sven and Hansen, Niels}]{markthaler2017molecular}
+\textbf{\color{LiveCoMSMediumGrey} Markthaler D}, Gebhardt J, Jakobtorweihen S,
+  Hansen N.
+\newblock Molecular simulations of thermodynamic properties for the system
+  $\alpha$-cyclodextrin/alcohol in aqueous solution.
+\newblock Chem Ing Tech.  2017; 89(10):1306--1314.
+\newblock \href{https://doi.org/10.1002/cite.201700057}{\doiprefix
+  \detokenize{10.1002/cite.201700057}}.
+
+\bibitem[{Gumbart et~al.(2012)Gumbart, James C and Roux, Beno{\^\i}t and
+  Chipot, Christophe}]{gumbart2012standard}
+\textbf{\color{LiveCoMSMediumGrey} Gumbart JC}, Roux B, Chipot C.
+\newblock Standard binding free energies from computer simulations: what is the
+  best strategy?
+\newblock J Chem Theory Comput.  2012; 9(1):794--802.
+\newblock \href{https://doi.org/10.1021/ct3008099}{\doiprefix
+  \detokenize{10.1021/ct3008099}}.
+
+\bibitem[{Pan et~al.(2017)Pan, Albert C and Xu, Huafeng and Palpant, Timothy
+  and Shaw, David E}]{pan2017quantitative}
+\textbf{\color{LiveCoMSMediumGrey} Pan AC}, Xu H, Palpant T, Shaw DE.
+\newblock Quantitative characterization of the binding and unbinding of
+  millimolar drug fragments with molecular dynamics simulations.
+\newblock J Chem Theory Comput.  2017; 13(7):3372--3377.
+\newblock \href{https://doi.org/10.1021/acs.jctc.7b00172}{\doiprefix
+  \detokenize{10.1021/acs.jctc.7b00172}}.
+
+\bibitem[{Baz et~al.(2018)Baz, J{\"o}rg and Gebhardt, Julia and Kraus, Hamzeh
+  and Markthaler, Daniel and Hansen, Niels}]{baz2018insights}
+\textbf{\color{LiveCoMSMediumGrey} Baz J}, Gebhardt J, Kraus H, Markthaler D,
+  Hansen N.
+\newblock Insights into noncovalent binding obtained from molecular dynamics
+  simulations.
+\newblock Chem Ing Tech.  2018; 90(11):1864--1875.
+\newblock \href{https://doi.org/10.1002/cite.201800050}{\doiprefix
+  \detokenize{10.1002/cite.201800050}}.
+
+\bibitem[{Torrie and Valleau(1974)Torrie, Glenn M and Valleau, John
+  P}]{torrie1974monte}
+\textbf{\color{LiveCoMSMediumGrey} Torrie GM}, Valleau JP.
+\newblock Monte Carlo free energy estimates using non-Boltzmann sampling:
+  application to the sub-critical Lennard-Jones fluid.
+\newblock Chem Phys Lett.  1974; 28(4):578--581.
+\newblock \href{https://doi.org/10.1016/0009-2614(74)80109-0}{\doiprefix
+  \detokenize{10.1016/0009-2614(74)80109-0}}.
+
+\bibitem[{Torrie and Valleau(1977)Torrie, Glenn M and Valleau, John
+  P}]{torrie1977nonphysical}
+\textbf{\color{LiveCoMSMediumGrey} Torrie GM}, Valleau JP.
+\newblock Nonphysical sampling distributions in Monte Carlo free-energy
+  estimation: Umbrella Sampling.
+\newblock J Comput Phys.  1977; 23(2):187--199.
+\newblock \href{https://doi.org/10.1016/0021-9991(77)90121-8}{\doiprefix
+  \detokenize{10.1016/0021-9991(77)90121-8}}.
+
+\bibitem[{Huber et~al.(1994)Huber, Thomas and Torda, Andrew E and Van
+  Gunsteren, Wilfred F}]{huber1994local}
+\textbf{\color{LiveCoMSMediumGrey} Huber T}, Torda AE, Van~Gunsteren WF.
+\newblock Local elevation: a method for improving the searching properties of
+  molecular dynamics simulation.
+\newblock J Comput Aided Mol Des.  1994; 8(6):695--708.
+\newblock \href{https://doi.org/10.1007/BF00124016}{\doiprefix
+  \detokenize{10.1007/BF00124016}}.
+
+\bibitem[{Darve et~al.(2008)Darve, Eric and Rodr{\'\i}guez-G{\'o}mez, David and
+  Pohorille, Andrew}]{darve2008adaptive}
+\textbf{\color{LiveCoMSMediumGrey} Darve E}, Rodr{\'\i}guez-G{\'o}mez D,
+  Pohorille A.
+\newblock Adaptive biasing force method for scalar and vector free energy
+  calculations.
+\newblock J Chem Phys.  2008; 128(14):144120.
+\newblock \href{https://doi.org/10.1063/1.2829861}{\doiprefix
+  \detokenize{10.1063/1.2829861}}.
+
+\bibitem[{Allen et~al.(2009)Allen, Rosalind J and Valeriani, Chantal and ten
+  Wolde, Pieter Rein}]{allen2009forward}
+\textbf{\color{LiveCoMSMediumGrey} Allen RJ}, Valeriani C, ten Wolde PR.
+\newblock Forward Flux Sampling for rare event simulations.
+\newblock J Phys Condens Matter.  2009; 21(46):463102.
+\newblock \href{https://doi.org/10.1088/0953-8984/21/46/463102}{\doiprefix
+  \detokenize{10.1088/0953-8984/21/46/463102}}.
+
+\bibitem[{Isralewitz et~al.(2001)Isralewitz, Barry and Gao, Mu and Schulten,
+  Klaus}]{isralewitz2001steered_1}
+\textbf{\color{LiveCoMSMediumGrey} Isralewitz B}, Gao M, Schulten K.
+\newblock Steered molecular dynamics and mechanical functions of proteins.
+\newblock Curr Opin Cell Biol.  2001; 11(2):224--230.
+\newblock \href{https://doi.org/10.1016/S0959-440X(00)00194-9}{\doiprefix
+  \detokenize{10.1016/S0959-440X(00)00194-9}}.
+
+\bibitem[{Del~Valle(2004)Del Valle, EM Martin}]{del2004cyclodextrins}
+\textbf{\color{LiveCoMSMediumGrey} Del~Valle EM}.
+\newblock Cyclodextrins and their uses: a review.
+\newblock Process Biochem.  2004; 39(9):1033--1046.
+\newblock \href{https://doi.org/10.1016/S0032-9592(03)00258-9}{\doiprefix
+  \detokenize{10.1016/S0032-9592(03)00258-9}}.
+
+\bibitem[{Velez-Vega and Gilson(2012)Velez-Vega, Camilo and Gilson, Michael
+  K}]{velez2012force}
+\textbf{\color{LiveCoMSMediumGrey} Velez-Vega C}, Gilson MK.
+\newblock Force and stress along simulated dissociation pathways of
+  cucurbituril--guest systems.
+\newblock J Chem Theory Comput.  2012; 8(3):966--976.
+\newblock \href{https://doi.org/10.1021/ct2006902}{\doiprefix
+  \detokenize{10.1021/ct2006902}}.
+
+\bibitem[{Velez-Vega and Gilson(2013)Velez-Vega, Camilo and Gilson, Michael
+  K}]{velez2013overcoming}
+\textbf{\color{LiveCoMSMediumGrey} Velez-Vega C}, Gilson MK.
+\newblock Overcoming dissipation in the calculation of standard binding free
+  energies by ligand extraction.
+\newblock J Comput Chem.  2013; 34(27):2360--2371.
+\newblock \href{https://doi.org/10.1002/jcc.23398}{\doiprefix
+  \detokenize{10.1002/jcc.23398}}.
+
+\bibitem[{Allen et~al.(2006{\natexlab{a}})Allen, Toby W and Andersen, Olaf S
+  and Roux, Benoit}]{allen2006ion}
+\textbf{\color{LiveCoMSMediumGrey} Allen TW}, Andersen OS, Roux B.
+\newblock Ion permeation through a narrow channel: using gramicidin to
+  ascertain all-atom molecular dynamics potential of mean force methodology and
+  biomolecular force fields.
+\newblock Biophys J.  2006; 90(10):3447--3468.
+\newblock \href{https://doi.org/10.1529/biophysj.105.077073}{\doiprefix
+  \detokenize{10.1529/biophysj.105.077073}}.
+
+\bibitem[{Allen et~al.(2006{\natexlab{b}})Allen, Toby W and Andersen, Olaf S
+  and Roux, Benoit}]{allen2006molecular}
+\textbf{\color{LiveCoMSMediumGrey} Allen TW}, Andersen OS, Roux B.
+\newblock Molecular dynamics---potential of mean force calculations as a tool
+  for understanding ion permeation and selectivity in narrow channels.
+\newblock Biophys Chem.  2006; 124(3):251--267.
+\newblock \href{https://doi.org/10.1016/j.bpc.2006.04.015}{\doiprefix
+  \detokenize{10.1016/j.bpc.2006.04.015}}.
+
+\bibitem[{Hub et~al.(2010)Hub, Jochen S and De Groot, Bert L and Van Der Spoel,
+  David}]{hub2010g_wham}
+\textbf{\color{LiveCoMSMediumGrey} Hub JS}, De~Groot BL, Van Der~Spoel D.
+\newblock g\_wham - a free weighted histogram analysis implementation including
+  robust error and autocorrelation estimates.
+\newblock J Chem Theory Comput.  2010; 6(12):3713--3720.
+\newblock \href{https://doi.org/10.1021/ct100494z}{\doiprefix
+  \detokenize{10.1021/ct100494z}}.
+
+\bibitem[{Flood et~al.(2019)Flood, Emelie and Boiteux, C{\'e}line and Lev,
+  Bogdan and Vorobyov, Igor and Allen, Toby W}]{flood2019atomistic}
+\textbf{\color{LiveCoMSMediumGrey} Flood E}, Boiteux C, Lev B, Vorobyov I,
+  Allen TW.
+\newblock Atomistic Simulations of Membrane Ion Channel Conduction, Gating, and
+  Modulation.
+\newblock Chem Rev.  2019;
+  \href{https://doi.org/10.1021/acs.chemrev.8b00630}{\doiprefix
+  \detokenize{10.1021/acs.chemrev.8b00630}}.
+
+\bibitem[{Woo and Roux(2005)Woo, Hyung-June and Roux,
+  Beno{\^\i}t}]{woo2005calculation}
+\textbf{\color{LiveCoMSMediumGrey} Woo HJ}, Roux B.
+\newblock Calculation of absolute protein--ligand binding free energy from
+  computer simulations.
+\newblock Proc Natl Acad Sci.  2005; 102(19):6825--6830.
+\newblock \href{https://doi.org/10.1073/pnas.0409005102}{\doiprefix
+  \detokenize{10.1073/pnas.0409005102}}.
+
+\bibitem[{Filippini et~al.(2012{\natexlab{a}})Filippini, Ga{\"e}lle and Goujon,
+  Florent and Bonal, Christine and Malfreyt, Patrice}]{filippini2012energetic}
+\textbf{\color{LiveCoMSMediumGrey} Filippini G}, Goujon F, Bonal C, Malfreyt P.
+\newblock Energetic competition effects on thermodynamic properties of
+  association between $\beta$-CD and Fc group: a potential of mean force
+  approach.
+\newblock J Phys Chem C.  2012; 116(42):22350--22358.
+\newblock \href{https://doi.org/10.1021/jp3057724}{\doiprefix
+  \detokenize{10.1021/jp3057724}}.
+
+\bibitem[{Filippini et~al.(2012{\natexlab{b}})Filippini, Ga{\"e}lle and Bonal,
+  Christine and Malfreyt, Patrice}]{filippini2012association}
+\textbf{\color{LiveCoMSMediumGrey} Filippini G}, Bonal C, Malfreyt P.
+\newblock Why is the association of supramolecular assemblies different under
+  homogeneous and heterogeneous conditions?
+\newblock Phys Chem Chem Phys.  2012; 14(29):10122--10124.
+\newblock \href{https://doi.org/10.1039/c2cp41661a}{\doiprefix
+  \detokenize{10.1039/c2cp41661a}}.
+
+\bibitem[{Ba{\c{s}}tu{\u{g}} et~al.(2008)Ba{\c{s}}tu{\u{g}}, Turgut and Chen,
+  Po-Chia and Patra, Swarna M and Kuyucak, Serdar}]{bacstuug2008potential}
+\textbf{\color{LiveCoMSMediumGrey} Ba{\c{s}}tu{\u{g}} T}, Chen PC, Patra SM,
+  Kuyucak S.
+\newblock Potential of mean force calculations of ligand binding to ion
+  channels from Jarzynski's equality and Umbrella Sampling.
+\newblock J Chem Phys.  2008; 128(15):155104.
+\newblock \href{https://doi.org/10.1063/1.2904461}{\doiprefix
+  \detokenize{10.1063/1.2904461}}.
+
+\bibitem[{Sun et~al.(2018)Sun, Rui and Han, Yining and Swanson, Jessica MJ and
+  Tan, Jeffrey S and Rose, John P and Voth, Gregory A}]{sun2018molecular}
+\textbf{\color{LiveCoMSMediumGrey} Sun R}, Han Y, Swanson JM, Tan JS, Rose JP,
+  Voth GA.
+\newblock Molecular transport through membranes: accurate permeability
+  coefficients from multidimensional potentials of mean force and local
+  diffusion constants.
+\newblock J Chem Phys.  2018; 149(7):072310.
+\newblock \href{https://doi.org/10.1063/1.5027004}{\doiprefix
+  \detokenize{10.1063/1.5027004}}.
+
+\bibitem[{Zhou and Gilson(2009)Zhou, Huan-Xiang and Gilson, Michael
+  K}]{zhou2009theory}
+\textbf{\color{LiveCoMSMediumGrey} Zhou HX}, Gilson MK.
+\newblock Theory of free energy and entropy in noncovalent binding.
+\newblock Chem Rev.  2009; 109(9):4092--4107.
+\newblock \href{https://doi.org/10.1021/cr800551w}{\doiprefix
+  \detokenize{10.1021/cr800551w}}.
+
+\bibitem[{General(2010)General, Ignacio J}]{general2010note}
+\textbf{\color{LiveCoMSMediumGrey} General IJ}.
+\newblock A note on the standard state's binding free energy.
+\newblock J Chem Theory Comput.  2010; 6(8):2520--2524.
+\newblock \href{https://doi.org/10.1021/ct100255z}{\doiprefix
+  \detokenize{10.1021/ct100255z}}.
+
+\bibitem[{Doudou et~al.(2009)Doudou, Slimane and Burton, Neil A and Henchman,
+  Richard H}]{doudou2009standard}
+\textbf{\color{LiveCoMSMediumGrey} Doudou S}, Burton NA, Henchman RH.
+\newblock Standard free energy of binding from a one-dimensional potential of
+  mean force.
+\newblock J Chem Theory Comput.  2009; 5(4):909--918.
+\newblock \href{https://doi.org/10.1021/ct8002354}{\doiprefix
+  \detokenize{10.1021/ct8002354}}.
+
+\bibitem[{Zwanzig(1954)Zwanzig, Robert W}]{zwanzig1954high}
+\textbf{\color{LiveCoMSMediumGrey} Zwanzig RW}.
+\newblock High-temperature equation of state by a perturbation method. I.
+  Nonpolar gases.
+\newblock J Chem Phys.  1954; 22(8):1420--1426.
+\newblock \href{https://doi.org/10.1063/1.1740409}{\doiprefix
+  \detokenize{10.1063/1.1740409}}.
+
+\bibitem[{Kirkwood(1935)Kirkwood, John G}]{kirkwood1935statistical}
+\textbf{\color{LiveCoMSMediumGrey} Kirkwood JG}.
+\newblock Statistical mechanics of fluid mixtures.
+\newblock J Chem Phys.  1935; 3(5):300--313.
+\newblock \href{https://doi.org/10.1063/1.1749657}{\doiprefix
+  \detokenize{10.1063/1.1749657}}.
+
+\bibitem[{Shirts and Chodera(2008)Shirts, Michael R and Chodera, John
+  D}]{shirts2008statistically}
+\textbf{\color{LiveCoMSMediumGrey} Shirts MR}, Chodera JD.
+\newblock Statistically optimal analysis of samples from multiple equilibrium
+  states.
+\newblock J Chem Phys.  2008; 129(12):124105.
+\newblock \href{https://doi.org/10.1063/1.2978177}{\doiprefix
+  \detokenize{10.1063/1.2978177}}.
+
+\bibitem[{Hermans and Wang(1997)Hermans, Jan and Wang,
+  LU}]{hermans1997inclusion}
+\textbf{\color{LiveCoMSMediumGrey} Hermans J}, Wang L.
+\newblock Inclusion of loss of translational and rotational freedom in
+  theoretical estimates of free energies of binding. Application to a complex
+  of benzene and mutant T4 lysozyme.
+\newblock J Am Chem Soc.  1997; 119(11):2707--2714.
+\newblock \href{https://doi.org/10.1021/ja963568+}{\doiprefix
+  \detokenize{10.1021/ja963568+}}.
+
+\bibitem[{Steinberg and Scheraga(1963)Steinberg, Izchak Z and Scheraga, Harold
+  A}]{steinberg1963entropy}
+\textbf{\color{LiveCoMSMediumGrey} Steinberg IZ}, Scheraga HA.
+\newblock Entropy changes accompanying association reactions of proteins.
+\newblock J Biol Chem.  1963; 238(1):172--181.
+\newblock \urlprefix\url{http://www.jbc.org/content/238/1/172.short}.
+
+\bibitem[{Mobley and Gilson(2017)Mobley, David L and Gilson, Michael
+  K}]{mobley2017predicting}
+\textbf{\color{LiveCoMSMediumGrey} Mobley DL}, Gilson MK.
+\newblock Predicting binding free energies: frontiers and benchmarks.
+\newblock Annu Rev Biophys.  2017; 46:531--558.
+\newblock
+  \href{https://doi.org/10.1146/annurev-biophys-070816-033654}{\doiprefix
+  \detokenize{10.1146/annurev-biophys-070816-033654}}.
+
+\bibitem[{IUPAC-IUB(1983)}]{iupac1983symbols}
+\textbf{\color{LiveCoMSMediumGrey} IUPAC-IUB}.
+\newblock Symbols for specifying the conformation of polysaccharide chains,
+  Recommendations 1981.
+\newblock Eur J Biochem.  1983; 131:5--7.
+\newblock \href{https://doi.org/10.1111/j.1432-1033.1983.tb07224.x}{\doiprefix
+  \detokenize{10.1111/j.1432-1033.1983.tb07224.x}}.
+
+\bibitem[{You et~al.(2019)You, Wanli and Tang, Zhiye and Chang, Chia-en
+  A}]{you2019potential}
+\textbf{\color{LiveCoMSMediumGrey} You W}, Tang Z, Chang CeA.
+\newblock Potential mean force from Umbrella Sampling simulations: what can we
+  learn and what is missed?
+\newblock J Chem Theory Comput.  2019; 15(4):2433--2443.
+\newblock \href{https://doi.org/10.1021/acs.jctc.8b01142}{\doiprefix
+  \detokenize{10.1021/acs.jctc.8b01142}}.
+
+\bibitem[{Trzesniak et~al.(2007)Trzesniak, Daniel and Kunz, Anna-Pitschna E and
+  van Gunsteren, Wilfred F}]{trzesniak2007comparison}
+\textbf{\color{LiveCoMSMediumGrey} Trzesniak D}, Kunz APE, van Gunsteren WF.
+\newblock A comparison of methods to compute the potential of mean force.
+\newblock ChemPhysChem.  2007; 8(1):162--169.
+\newblock \href{https://doi.org/10.1002/cphc.200600527}{\doiprefix
+  \detokenize{10.1002/cphc.200600527}}.
+
+\bibitem[{Schmid et~al.(2011)Schmid, N. and Eichenberger, A.P. and Choutko, A.
+  and Riniker, S. and Winger, M. and Mark, A.E. and van Gunsteren,
+  W.F.}]{schmid2011definition}
+\textbf{\color{LiveCoMSMediumGrey} Schmid N}, Eichenberger AP, Choutko A,
+  Riniker S, Winger M, Mark AE, van Gunsteren WF.
+\newblock Definition and testing of the \uppercase{GROMOS} force-field versions
+  54\uppercase{A}7 and 54\uppercase{B}7.
+\newblock Eur Biophys J.  2011; 40(7):843.
+\newblock \href{https://doi.org/10.1007/s00249-011-0700-9}{\doiprefix
+  \detokenize{10.1007/s00249-011-0700-9}}.
+
+\bibitem[{Pol-Fachin et~al.(2012)Pol-Fachin, Laercio and Rusu, Victor H and
+  Verli, Hugo and Lins, Roberto D}]{pol2012gromos}
+\textbf{\color{LiveCoMSMediumGrey} Pol-Fachin L}, Rusu VH, Verli H, Lins RD.
+\newblock GROMOS 53A6GLYC, an improved GROMOS force field for
+  hexopyranose-based carbohydrates.
+\newblock J Chem Theory Comput.  2012; 8(11):4681--4690.
+\newblock \href{https://doi.org/10.1021/ct300479h}{\doiprefix
+  \detokenize{10.1021/ct300479h}}.
+
+\bibitem[{Berendsen et~al.(1981)Berendsen, H.J.C. and Postma, J.P.M. and van
+  Gunsteren, W.F. and Hermans, J.}]{berendsen1981interaction}
+\textbf{\color{LiveCoMSMediumGrey} Berendsen HJC}, Postma JPM, van Gunsteren
+  WF, Hermans J.
+\newblock Interaction models for water in relation to protein hydration.
+\newblock In: Pullmann B, editor. \emph{Intermolecular Forces} Dordrecht, the
+  Netherlands: Reidel; 1981.p. 331--342.
+\newblock \href{https://doi.org/10.1007/978-94-015-7658-1_21}{\doiprefix
+  \detokenize{10.1007/978-94-015-7658-1_21}}.
+
+\bibitem[{Eastwood and Hockney(1981)Eastwood, J.W. and Hockney,
+  R.W.}]{eastwood1981computer}
+\textbf{\color{LiveCoMSMediumGrey} Eastwood JW}, Hockney RW.
+\newblock Computer simulation using particles.
+\newblock N. Y.: McGraw-Hill; 1981.
+
+\bibitem[{Berendsen et~al.(1995)Berendsen, H.J.C. and van der Spoel, D. and van
+  Drunen, R.}]{berendsen1995gromacs}
+\textbf{\color{LiveCoMSMediumGrey} Berendsen HJC}, van~der Spoel D, van Drunen
+  R.
+\newblock \uppercase{GROMACS:} a message-passing parallel molecular dynamics
+  implementation.
+\newblock Comput Phys Commun.  1995; 91(1-3):43--56.
+\newblock \href{https://doi.org/10.1016/0010-4655(95)00042-E}{\doiprefix
+  \detokenize{10.1016/0010-4655(95)00042-E}}.
+
+\bibitem[{Hess et~al.(2008)Hess, B. and Kutzner, C. and van der Spoel, D. and
+  Lindahl, E.}]{hess2008gromacs}
+\textbf{\color{LiveCoMSMediumGrey} Hess B}, Kutzner C, van~der Spoel D, Lindahl
+  E.
+\newblock \uppercase{GROMACS 4:} algorithms for highly efficient,
+  load-balanced, and scalable molecular simulation.
+\newblock J Chem Theory Comput.  2008; 4(3):435--447.
+\newblock \href{https://doi.org/10.1021/ct700301q}{\doiprefix
+  \detokenize{10.1021/ct700301q}}.
+
+\bibitem[{Abraham et~al.(2015)Abraham, Mark James and Murtola, Teemu and
+  Schulz, Roland and P{\'a}ll, Szil{\'a}rd and Smith, Jeremy C and Hess, Berk
+  and Lindahl, Erik}]{abraham2015gromacs}
+\textbf{\color{LiveCoMSMediumGrey} Abraham MJ}, Murtola T, Schulz R, P{\'a}ll
+  S, Smith JC, Hess B, Lindahl E.
+\newblock GROMACS: High performance molecular simulations through multi-level
+  parallelism from laptops to supercomputers.
+\newblock SoftwareX.  2015; 1:19--25.
+\newblock \href{https://doi.org/10.1016/j.softx.2015.06.001}{\doiprefix
+  \detokenize{10.1016/j.softx.2015.06.001}}.
+
+\bibitem[{Silva et~al.(2018)Silva, Tom{\'a}s FD and Vila-Vi{\c{c}}osa, Diogo
+  and Reis, Pedro BPS and Victor, Bruno L and Diem, Matthias and Oostenbrink,
+  Chris and Machuqueiro, Miguel}]{silva2018impact}
+\textbf{\color{LiveCoMSMediumGrey} Silva TF}, Vila-Vi{\c{c}}osa D, Reis PB,
+  Victor BL, Diem M, Oostenbrink C, Machuqueiro M.
+\newblock The impact of using single atomistic long-range cutoff schemes with
+  the GROMOS 54A7 force field.
+\newblock J Chem Theory Comput.  2018; 14(11):5823--5833.
+\newblock \href{https://doi.org/10.1021/acs.jctc.8b00758}{\doiprefix
+  \detokenize{10.1021/acs.jctc.8b00758}}.
+
+\bibitem[{Gon{\c{c}}alves et~al.(2019)Gon{\c{c}}alves, Yan MH and Senac,
+  Caroline and Fuchs, Patrick Fran{\c{c}}ois Jimi and H{\"u}nenberger, Philippe
+  Henry and Horta, Bruno AC}]{gonccalves2019influence}
+\textbf{\color{LiveCoMSMediumGrey} Gon{\c{c}}alves YM}, Senac C, Fuchs PFJ,
+  H{\"u}nenberger PH, Horta BA.
+\newblock Influence of the treatment of non-bonded interactions on
+  thermodynamic and transport properties of pure liquids calculated using the
+  2016H66 force field.
+\newblock J Chem Theory Comput.  2019; 15(3):1806--1826.
+\newblock \href{https://doi.org/10.1021/acs.jctc.8b00425}{\doiprefix
+  \detokenize{10.1021/acs.jctc.8b00425}}.
+
+\bibitem[{Rei{\ss}er et~al.(2017)Rei{\ss}er, Sabine and Poger, David and
+  Stroet, Martin and Mark, Alan E}]{reisser2017real}
+\textbf{\color{LiveCoMSMediumGrey} Rei{\ss}er S}, Poger D, Stroet M, Mark AE.
+\newblock Real cost of speed: the effect of a time-saving
+  multiple-time-stepping algorithm on the accuracy of molecular dynamics
+  simulations.
+\newblock J Chem Theory Comput.  2017; 13(6):2367--2372.
+\newblock \href{https://doi.org/10.1021/acs.jctc.7b00178}{\doiprefix
+  \detokenize{10.1021/acs.jctc.7b00178}}.
+
+\bibitem[{Loeffler et~al.(2018)Loeffler, Hannes H and Bosisio, Stefano and
+  Duarte Ramos Matos, Guilherme and Suh, Donghyuk and Roux, Benoit and Mobley,
+  David L and Michel, Julien}]{loeffler2018reproducibility}
+\textbf{\color{LiveCoMSMediumGrey} Loeffler HH}, Bosisio S, Duarte Ramos~Matos
+  G, Suh D, Roux B, Mobley DL, Michel J.
+\newblock Reproducibility of free energy calculations across different
+  molecular simulation software packages.
+\newblock J Chem Theory Comput.  2018; 14(11):5567--5582.
+\newblock \href{https://doi.org/10.1021/acs.jctc.8b00544}{\doiprefix
+  \detokenize{10.1021/acs.jctc.8b00544}}.
+
+\bibitem[{Kunz et~al.(2012)Kunz, A.E. and Allison, J.R. and Geerke, D.P. and
+  Horta, B.A.C. and H{\"u}nenberger, P.H. and Riniker, S. and Schmid, N. and
+  van Gunsteren, W.F.}]{kunz2012new}
+\textbf{\color{LiveCoMSMediumGrey} Kunz AE}, Allison JR, Geerke DP, Horta BAC,
+  H{\"u}nenberger PH, Riniker S, Schmid N, van Gunsteren WF.
+\newblock New functionalities in the \uppercase{GROMOS} biomolecular simulation
+  software.
+\newblock J Comput Chem.  2012; 33(3):340--353.
+\newblock \href{https://doi.org/10.1002/jcc.21954}{\doiprefix
+  \detokenize{10.1002/jcc.21954}}.
+
+\bibitem[{Riniker et~al.(2011)Riniker, S. and Christ, C.D. and Hansen, H.S. and
+  H{\"u}nenberger, P.H. and Oostenbrink, C. and Steiner, D. and van Gunsteren,
+  W.F.}]{riniker2011calculation}
+\textbf{\color{LiveCoMSMediumGrey} Riniker S}, Christ CD, Hansen HS,
+  H{\"u}nenberger PH, Oostenbrink C, Steiner D, van Gunsteren WF.
+\newblock Calculation of relative free energies for ligand-protein binding,
+  solvation, and conformational transitions using the \uppercase{GROMOS}
+  software.
+\newblock J Phys Chem B.  2011; 115(46):13570--13577.
+\newblock \href{https://doi.org/10.1021/jp204303a}{\doiprefix
+  \detokenize{10.1021/jp204303a}}.
+
+\bibitem[{Schmid et~al.(2012)Schmid, N. and Christ, C.D. and Christen, M. and
+  Eichenberger, A.P. and van Gunsteren, W.F.}]{schmid2012architecture}
+\textbf{\color{LiveCoMSMediumGrey} Schmid N}, Christ CD, Christen M,
+  Eichenberger AP, van Gunsteren WF.
+\newblock Architecture, implementation and parallelisation of the
+  \uppercase{GROMOS} software for biomolecular simulation.
+\newblock Comput Phys Commun.  2012; 183(4):890--903.
+\newblock \href{https://doi.org/10.1016/j.cpc.2011.12.014}{\doiprefix
+  \detokenize{10.1016/j.cpc.2011.12.014}}.
+
+\bibitem[{Papadourakis et~al.(2018)Papadourakis, Michail and Bosisio, Stefano
+  and Michel, Julien}]{papadourakis2018blinded}
+\textbf{\color{LiveCoMSMediumGrey} Papadourakis M}, Bosisio S, Michel J.
+\newblock Blinded predictions of standard binding free energies: lessons
+  learned from the SAMPL6 challenge.
+\newblock J Comput Aided Mol Des.  2018; 32(10):1047--1058.
+\newblock \href{https://doi.org/10.1007/s1082}{\doiprefix
+  \detokenize{10.1007/s1082}}.
+
+\bibitem[{{\AA}qvist(2017){\AA}qvist, Johan}]{aaqvist2017cold}
+\textbf{\color{LiveCoMSMediumGrey} {\AA}qvist J}.
+\newblock Cold adaptation of triosephosphate isomerase.
+\newblock Biochemistry.  2017; 56(32):4169--4176.
+\newblock \href{https://doi.org/10.1021/acs.biochem.7b00523}{\doiprefix
+  \detokenize{10.1021/acs.biochem.7b00523}}.
+
+\bibitem[{Darden et~al.(1993)Darden, T. and York, D. and Pedersen,
+  L.}]{darden1993particle}
+\textbf{\color{LiveCoMSMediumGrey} Darden T}, York D, Pedersen L.
+\newblock Particle Mesh \uppercase{E}wald: an \uppercase{N} log(\uppercase{N})
+  method for \uppercase{E}wald sums in large systems.
+\newblock J Chem Phys.  1993; 98(12):10089--10092.
+\newblock \href{https://doi.org/10.1063/1.464397}{\doiprefix
+  \detokenize{10.1063/1.464397}}.
+
+\bibitem[{Essmann et~al.(1995)Essmann, U. and Perera, L. and Berkowitz, M.L.
+  and Darden, T. and Lee, H. and Pedersen, L.G.}]{essmann1995smooth}
+\textbf{\color{LiveCoMSMediumGrey} Essmann U}, Perera L, Berkowitz ML, Darden
+  T, Lee H, Pedersen LG.
+\newblock A smooth Particle Mesh \uppercase{E}wald method.
+\newblock J Chem Phys.  1995; 103(19):8577--8593.
+\newblock \href{https://doi.org/10.1063/1.470117}{\doiprefix
+  \detokenize{10.1063/1.470117}}.
+
+\bibitem[{Tribello et~al.(2014)Tribello, Gareth A and Bonomi, Massimiliano and
+  Branduardi, Davide and Camilloni, Carlo and Bussi,
+  Giovanni}]{tribello2014plumed}
+\textbf{\color{LiveCoMSMediumGrey} Tribello GA}, Bonomi M, Branduardi D,
+  Camilloni C, Bussi G.
+\newblock PLUMED 2: new feathers for an old bird.
+\newblock Comput Phys Commun.  2014; 185(2):604--613.
+\newblock \href{https://doi.org/10.1016/j.cpc.2013.09.018}{\doiprefix
+  \detokenize{10.1016/j.cpc.2013.09.018}}.
+
+\bibitem[{Hess et~al.(1997)Hess, B. and Bekker, H. and Berendsen, H.J.C. and
+  Fraaije, J.G.E.M.}]{hess1997lincs}
+\textbf{\color{LiveCoMSMediumGrey} Hess B}, Bekker H, Berendsen HJC, Fraaije
+  JGEM.
+\newblock \uppercase{LINCS:} a linear constraint solver for molecular
+  simulations.
+\newblock J Comput Chem.  1997; 18(12):1463--1472.
+\newblock
+  \href{https://doi.org/10.1002/(SICI)1096-987X(199709)18:12<1463::AID-JCC4>3.0.CO;2-H}{\doiprefix
+  \detokenize{10.1002/(SICI)1096-987X(199709)18:12<1463::AID-JCC4>3.0.CO;2-H}}.
+
+\bibitem[{Hess(2008)Hess, B.}]{hess2008p}
+\textbf{\color{LiveCoMSMediumGrey} Hess B}.
+\newblock \uppercase{P-LINCS:} a parallel linear constraint solver for
+  molecular simulation.
+\newblock J Chem Theory Comput.  2008; 4(1):116--122.
+\newblock \href{https://doi.org/10.1021/ct700200b}{\doiprefix
+  \detokenize{10.1021/ct700200b}}.
+
+\bibitem[{Miyamoto and Kollman(1992)Miyamoto, S. and Kollman,
+  P.A.}]{miyamoto1992settle}
+\textbf{\color{LiveCoMSMediumGrey} Miyamoto S}, Kollman PA.
+\newblock Settle: an analytical version of the SHAKE and RATTLE algorithm for
+  rigid water models.
+\newblock J Comput Chem.  1992; 13(8):952--962.
+\newblock \href{https://doi.org/10.1002/jcc.540130805}{\doiprefix
+  \detokenize{10.1002/jcc.540130805}}.
+
+\bibitem[{Berendsen et~al.(1984)Berendsen, H.J.C. and Postma, J.P.M. and van
+  Gunsteren, W.F. and Di Nola, A. and Haak, J.R.}]{berendsen1984molecular}
+\textbf{\color{LiveCoMSMediumGrey} Berendsen HJC}, Postma JPM, van Gunsteren
+  WF, Di~Nola A, Haak JR.
+\newblock Molecular dynamics with coupling to an external bath.
+\newblock J Chem Phys.  1984; 81(8):3684--3690.
+\newblock \href{https://doi.org/10.1063/1.448118}{\doiprefix
+  \detokenize{10.1063/1.448118}}.
+
+\bibitem[{Kell(1967)Kell, GS}]{kell1967precise}
+\textbf{\color{LiveCoMSMediumGrey} Kell G}.
+\newblock Precise representation of volume properties of water at one
+  atmosphere.
+\newblock J Chem Eng Data.  1967; 12(1):66--69.
+\newblock \href{https://doi.org/10.1021/je60032a018}{\doiprefix
+  \detokenize{10.1021/je60032a018}}.
+
+\bibitem[{Nos{\'e}(1984)Nos{\'e}, S.}]{nose1984molecular}
+\textbf{\color{LiveCoMSMediumGrey} Nos{\'e} S}.
+\newblock A molecular dynamics method for simulations in the canonical
+  ensemble.
+\newblock Mol Phys.  1984; 52(2):255--268.
+\newblock \href{https://doi.org/10.1080/00268978400101201}{\doiprefix
+  \detokenize{10.1080/00268978400101201}}.
+
+\bibitem[{Hoover(1985)Hoover, W.G.}]{hoover1985canonical}
+\textbf{\color{LiveCoMSMediumGrey} Hoover WG}.
+\newblock Canonical dynamics: equilibrium phase-space distributions.
+\newblock Phys Rev A.  1985; 31(3):1695.
+\newblock \href{https://doi.org/10.1103/PhysRevA.31.1695}{\doiprefix
+  \detokenize{10.1103/PhysRevA.31.1695}}.
+
+\bibitem[{Martyna et~al.(1996)Martyna, G.J. and Tuckerman, M.E. and Tobias,
+  D.J. and Klein, M.L.}]{martyna1996explicit}
+\textbf{\color{LiveCoMSMediumGrey} Martyna GJ}, Tuckerman ME, Tobias DJ, Klein
+  ML.
+\newblock Explicit reversible integrators for extended systems dynamics.
+\newblock Mol Phys.  1996; 87(5):1117--1157.
+\newblock \href{https://doi.org/10.1080/00268979600100761}{\doiprefix
+  \detokenize{10.1080/00268979600100761}}.
+
+\bibitem[{Parrinello and Rahman(1981)Parrinello, M. and Rahman,
+  A.}]{parrinello1981polymorphic}
+\textbf{\color{LiveCoMSMediumGrey} Parrinello M}, Rahman A.
+\newblock Polymorphic transitions in single crystals: a new molecular dynamics
+  method.
+\newblock J Appl Phys.  1981; 52(12):7182--7190.
+\newblock \href{https://doi.org/10.1063/1.328693}{\doiprefix
+  \detokenize{10.1063/1.328693}}.
+
+\bibitem[{Nos{\'e} and Klein(1983)Nos{\'e}, S. and Klein,
+  M.L.}]{nose1983constant}
+\textbf{\color{LiveCoMSMediumGrey} Nos{\'e} S}, Klein ML.
+\newblock Constant pressure molecular dynamics for molecular systems.
+\newblock Mol Phys.  1983; 50(5):1055--1076.
+\newblock \href{https://doi.org/10.1080/00268978300102851}{\doiprefix
+  \detokenize{10.1080/00268978300102851}}.
+
+\bibitem[{P{\'a}ll and Hess(2013)P{\'a}ll, S. and Hess, B.}]{pall2013flexible}
+\textbf{\color{LiveCoMSMediumGrey} P{\'a}ll S}, Hess B.
+\newblock A flexible algorithm for calculating pair interactions on
+  \uppercase{SIMD} architectures.
+\newblock Comput Phys Commun.  2013; 184(12):2641--2650.
+\newblock \href{https://doi.org/10.1016/j.cpc.2013.06.003}{\doiprefix
+  \detokenize{10.1016/j.cpc.2013.06.003}}.
+
+\bibitem[{Barker and Watts(1973)Barker, JA and Watts, RO}]{barker1973monte}
+\textbf{\color{LiveCoMSMediumGrey} Barker J}, Watts R.
+\newblock Monte Carlo studies of the dielectric properties of water-like
+  models.
+\newblock Mol Phys.  1973; 26(3):789--792.
+\newblock \href{https://doi.org/10.1080/00268977300102101}{\doiprefix
+  \detokenize{10.1080/00268977300102101}}.
+
+\bibitem[{Ryckaert et~al.(1977)Ryckaert, Jean-Paul and Ciccotti, Giovanni and
+  Berendsen, Herman JC}]{ryckaert1977numerical}
+\textbf{\color{LiveCoMSMediumGrey} Ryckaert JP}, Ciccotti G, Berendsen HJ.
+\newblock Numerical integration of the cartesian equations of motion of a
+  system with constraints: molecular dynamics of n-alkanes.
+\newblock J Comput Phys.  1977; 23(3):327--341.
+\newblock \href{https://doi.org/10.1016/0021-9991(77)90098-5}{\doiprefix
+  \detokenize{10.1016/0021-9991(77)90098-5}}.
+
+\bibitem[{Heinz et~al.(2001)Heinz, Tim N and van Gunsteren, Wilfred F and
+  H{\"u}nenberger, Philippe H}]{heinz2001comparison}
+\textbf{\color{LiveCoMSMediumGrey} Heinz TN}, van Gunsteren WF, H{\"u}nenberger
+  PH.
+\newblock Comparison of four methods to compute the dielectric permittivity of
+  liquids from molecular dynamics simulations.
+\newblock J Chem Phys.  2001; 115(3):1125--1136.
+\newblock \href{https://doi.org/10.1063/1.1379764}{\doiprefix
+  \detokenize{10.1063/1.1379764}}.
+
+\bibitem[{Zuiderweg et~al.(1985)Zuiderweg, Erik RP and Scheek, Ruud M and
+  Boelens, Rolf and van Gunsteren, Wilfred F and Kaptein,
+  Robert}]{zuiderweg1985determination}
+\textbf{\color{LiveCoMSMediumGrey} Zuiderweg ER}, Scheek RM, Boelens R, van
+  Gunsteren WF, Kaptein R.
+\newblock Determination of protein structures from nuclear magnetic resonance
+  data using a restrained molecular dynamics approach: the lac repressor DNA
+  binding domain.
+\newblock Biochimie.  1985; 67(7-8):707--715.
+\newblock \href{https://doi.org/10.1016/S0300-9084(85)80158-9}{\doiprefix
+  \detokenize{10.1016/S0300-9084(85)80158-9}}.
+
+\bibitem[{Ferrenberg and Swendsen(1989)Ferrenberg, Alan M and Swendsen, Robert
+  H}]{ferrenberg1989ferrenberg}
+\textbf{\color{LiveCoMSMediumGrey} Ferrenberg AM}, Swendsen RH.
+\newblock Optimized Monte Carlo data analysis.
+\newblock Phys Rev Lett.  1989; 63(12):1195--1198.
+\newblock \href{https://doi.org/10.1103/PhysRevLett.63.1195}{\doiprefix
+  \detokenize{10.1103/PhysRevLett.63.1195}}.
+
+\bibitem[{Kumar et~al.(1992)Kumar, Shankar and Rosenberg, John M and Bouzida,
+  Djamal and Swendsen, Robert H and Kollman, Peter A}]{kumar1992weighted}
+\textbf{\color{LiveCoMSMediumGrey} Kumar S}, Rosenberg JM, Bouzida D, Swendsen
+  RH, Kollman PA.
+\newblock The weighted histogram analysis method for free-energy calculations
+  on biomolecules. I. The method.
+\newblock J Comput Chem.  1992; 13(8):1011--1021.
+\newblock \href{https://doi.org/10.1002/jcc.540130812}{\doiprefix
+  \detokenize{10.1002/jcc.540130812}}.
+
+\bibitem[{Roux(1995)Roux, Beno{\^\i}t}]{roux1995calculation}
+\textbf{\color{LiveCoMSMediumGrey} Roux B}.
+\newblock The calculation of the potential of mean force using computer
+  simulations.
+\newblock Comput Phys Commun.  1995; 91(1-3):275--282.
+\newblock \href{https://doi.org/10.1016/0010-4655(95)00053-I}{\doiprefix
+  \detokenize{10.1016/0010-4655(95)00053-I}}.
+
+\bibitem[{Billeter and van Gunsteren(2000)Billeter, SR and van Gunsteren,
+  WF}]{billeter2000computer}
+\textbf{\color{LiveCoMSMediumGrey} Billeter S}, van Gunsteren W.
+\newblock Computer simulation of proton transfers of small acids in water.
+\newblock J Phys Chem A.  2000; 104(15):3276--3286.
+\newblock \href{https://doi.org/10.1021/jp994127q}{\doiprefix
+  \detokenize{10.1021/jp994127q}}.
+
+\bibitem[{K{\"a}stner and Thiel(2005)K{\"a}stner, Johannes and Thiel,
+  Walter}]{kastner2005bridging}
+\textbf{\color{LiveCoMSMediumGrey} K{\"a}stner J}, Thiel W.
+\newblock Bridging the gap between thermodynamic integration and Umbrella
+  Sampling provides a novel analysis method: ``Umbrella Integration''.
+\newblock J Chem Phys.  2005; 123(14):144104.
+\newblock \href{https://doi.org/10.1063/1.2052648}{\doiprefix
+  \detokenize{10.1063/1.2052648}}.
+
+\bibitem[{K{\"a}stner and Thiel(2006)K{\"a}stner, Johannes and Thiel,
+  Walter}]{kastner2006analysis}
+\textbf{\color{LiveCoMSMediumGrey} K{\"a}stner J}, Thiel W.
+\newblock Analysis of the statistical error in Umbrella Sampling simulations by
+  Umbrella Integration.
+\newblock J Chem Phys.  2006; 124(23):234106.
+\newblock \href{https://doi.org/10.1063/1.2206775}{\doiprefix
+  \detokenize{10.1063/1.2206775}}.
+
+\bibitem[{umb(????)}]{umbrellaintgit}
+Python implementation of the umbrella integration method;.
+\newblock Accessed: 2018-01-08.
+\newblock \url{https://github.com/martinstroet/umbrella_integration}.
+
+\bibitem[{pym(????)}]{pymbargit}
+Python implementation of the multistate Bennett acceptance ratio;.
+\newblock Accessed: 2018-01-08.
+\newblock \url{https://github.com/choderalab/pymbar}.
+
+\bibitem[{Baumketner(2009)Baumketner, Andrij}]{baumketner2009removing}
+\textbf{\color{LiveCoMSMediumGrey} Baumketner A}.
+\newblock Removing systematic errors in interionic potentials of mean force
+  computed in molecular simulations using reaction-field-based electrostatics.
+\newblock J Chem Phys.  2009; 130(10):104106.
+\newblock \href{https://doi.org/10.1063/1.3081138}{\doiprefix
+  \detokenize{10.1063/1.3081138}}.
+
+\bibitem[{Gilson and Irikura(2013)Gilson, Michael K and Irikura, Karl
+  K}]{gilson2013correction}
+\textbf{\color{LiveCoMSMediumGrey} Gilson MK}, Irikura KK.
+\newblock Correction to ``Symmetry numbers for rigid, flexible, and fluxional
+  molecules: theory and applications''.
+\newblock J Phys Chem B.  2013; 117(10):3061--3061.
+\newblock \href{https://doi.org/10.1021/jp401194k}{\doiprefix
+  \detokenize{10.1021/jp401194k}}.
+
+\bibitem[{Reif and H{\"u}nenberger(2011)Reif, Maria M and H{\"u}nenberger,
+  Philippe H}]{reif2011computation}
+\textbf{\color{LiveCoMSMediumGrey} Reif MM}, H{\"u}nenberger PH.
+\newblock Computation of methodology-independent single-ion solvation
+  properties from molecular simulations. IV. Optimized Lennard-Jones
+  interaction parameter sets for the alkali and halide ions in water.
+\newblock J Chem Phys.  2011; 134(14):144104.
+\newblock \href{https://doi.org/10.1063/1.3567022}{\doiprefix
+  \detokenize{10.1063/1.3567022}}.
+
+\bibitem[{Gebhardt and Hansen(2016)Gebhardt, Julia and Hansen,
+  Niels}]{gebhardt2016calculation}
+\textbf{\color{LiveCoMSMediumGrey} Gebhardt J}, Hansen N.
+\newblock Calculation of binding affinities for linear alcohols to
+  $\alpha$-cyclodextrin by twin-system enveloping distribution sampling
+  simulations.
+\newblock Fluid Phase Equilib.  2016; 422:1--17.
+\newblock \href{https://doi.org/10.1016/j.fluid.2016.02.001}{\doiprefix
+  \detokenize{10.1016/j.fluid.2016.02.001}}.
+
+\bibitem[{Sugita et~al.(2000)Sugita, Yuji and Kitao, Akio and Okamoto,
+  Yuko}]{sugita2000multidimensional}
+\textbf{\color{LiveCoMSMediumGrey} Sugita Y}, Kitao A, Okamoto Y.
+\newblock Multidimensional replica-exchange method for free-energy
+  calculations.
+\newblock J Chem Phys.  2000; 113(15):6042--6051.
+\newblock \href{https://doi.org/10.1063/1.1308516}{\doiprefix
+  \detokenize{10.1063/1.1308516}}.
+
+\bibitem[{Mobley et~al.(2006)Mobley, David L and Chodera, John D and Dill, Ken
+  A}]{mobley2006use}
+\textbf{\color{LiveCoMSMediumGrey} Mobley DL}, Chodera JD, Dill KA.
+\newblock On the use of orientational restraints and symmetry corrections in
+  alchemical free energy calculations.
+\newblock J Chem Phys.  2006; 125(8):084902.
+\newblock \href{https://doi.org/10.1063/1.2221683}{\doiprefix
+  \detokenize{10.1063/1.2221683}}.
+
+\bibitem[{Gebhardt et~al.(2018)Gebhardt, Julia and Kleist, Catharina and
+  Jakobtorweihen, Sven and Hansen, Niels}]{gebhardt2018validation}
+\textbf{\color{LiveCoMSMediumGrey} Gebhardt J}, Kleist C, Jakobtorweihen S,
+  Hansen N.
+\newblock Validation and comparison of force fields for native cyclodextrins in
+  aqueous solution.
+\newblock J Phys Chem B.  2018; 122(5):1608--1626.
+\newblock \href{https://doi.org/10.1021/acs.jpcb.7b11808}{\doiprefix
+  \detokenize{10.1021/acs.jpcb.7b11808}}.
+
+\bibitem[{Tirado-Rives and Jorgensen(2006)Tirado-Rives, Julian and Jorgensen,
+  William L}]{tirado2006contribution}
+\textbf{\color{LiveCoMSMediumGrey} Tirado-Rives J}, Jorgensen WL.
+\newblock Contribution of conformer focusing to the uncertainty in predicting
+  free energies for protein- ligand binding.
+\newblock J Med Chem.  2006; 49(20):5880--5884.
+\newblock \href{https://doi.org/10.1021/jm060763i}{\doiprefix
+  \detokenize{10.1021/jm060763i}}.
+
+\end{thebibliography}
