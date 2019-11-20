@@ -95,7 +95,8 @@ Finally, the consequences for the calculation of standard binding free enthalpie
 
 The field of \textit{in silico} pharmaceutical drug design impressively demonstrates  the potential of state-of-the-art free energy molecular dynamics (MD) simulations~\cite{leelananda2016computational}.
 However, despite a sound theoretical basis~\cite{gilson1997statistical, boresch2003absolute} and the emergence of best practices~\cite{pohorille2010good}, 
-reliable predictions of the standard binding free energy or rather free enthalpy~\cite{19781} or Gibbs energy~\cite{quantities1988units}, for realistic host-guest systems from computer simulations are still far from routine. 
+reliable predictions of the standard binding free energy or rather free enthalpy~\cite{19781} or Gibbs energy~\cite{10.1039/9781847557889}, 
+for realistic host-guest systems from computer simulations are still far from routine. 
 As revealed by different case studies, the discrepancy between computed and experimental estimates of the standard binding free enthalpy is often beyond the threshold of 4.2~kJ~mol$^{-1}$, 
 commonly referred to as chemical accuracy~\cite{pople1999nobel}.
 Such deviations may arise from three main simulation-related sources: 
@@ -112,7 +113,7 @@ PMF calculations for a specific binding process, are based upon either equilibri
 or metadynamics~\cite{laio2002escaping}, adaptive biasing force~\cite{darve2008adaptive}, forward flux sampling~\cite{allen2009forward} or on non-equilibrium methods such as steered MD~\cite{isralewitz2001steered_1}.
 In this article, we focus on one-dimensional PMFs obtained via umbrella sampling simulations for host molecules featuring a distinct hydrophobic cavity.
 Examples for these types of hosts range from rather low molecular-weight substances such as cyclodextrins~\cite{del2004cyclodextrins} or cucurbiturils~\cite{velez2012force, velez2013overcoming}, 
-up to large moieties such as protein channels inside a membrane~\cite{allen2006ion, allen2006molecular, hub2010g_wham, flood2019atomistic}.
+up to large moieties such as micelles~\cite{yordanova2017solute} or protein channels inside a membrane~\cite{allen2006ion, allen2006molecular, hub2010g_wham, flood2019atomistic}.
 The cavity, enabling a ligand to be bound with high affinity and specificity, makes such host molecules attractive for applications in (computer-aided) drug design.
 However, it also poses various challenges regarding the applied simulation protocol.
 Studies of cucurbituril complexes revealed that thermodynamic irreversibilities can occur when certain guest atoms, that are not directly controlled via the bias potential, become stuck inside the host and then suddenly jump outside~\cite{velez2012force, velez2013overcoming}.
@@ -124,7 +125,7 @@ The concrete choice of these auxiliary restraints is however non-trivial, since 
 For vanishing interactions at large distances between the binding partners, the PMF becomes flat and approaches a constant value.
 The fact that this constant has to be the same for every ligand position within the bulk region (due to the isotropy of the bulk fluid in the absence of external potentials), can be used as a diagnostic test.
 In a couple of published examples~\cite{filippini2012energetic, filippini2012association, allen2006ion, allen2006molecular, bacstuug2008potential, hub2010g_wham, kruger2009potential}, an artificial offset is visible in the free energy profile between the two bulk regions of the solvent which violates the state function property of the free energy.
-In some of the cases, this offset was offhandedly interpreted as indication of insufficient simulation time~\cite{bacstuug2008potential}.
+In some of the cases, this offset was interpreted as indication of insufficient simulation time~\cite{bacstuug2008potential}.
 However, systematic studies about the origins of these artifacts are scarce~\cite{velez2013overcoming}. 
 Hub et al.~\cite{hub2010g_wham} considered solute permeation across a protein channel and found that limited sampling inside the channel in the presence of locally different correlation times can lead to PMF offsets up to 15~kJ~mol$^{-1}$.
 In Ref.~\citenum{allen2006ion}, the sampling problem was interpreted as a very small average force across the channel due to the accumulation of noise, originating from all degrees of freedom other than the chosen order parameter.
@@ -354,7 +355,7 @@ ligand ($\text{\boldmath$\omega$}_\mathrm{L}$) in order to suppress flipping of 
 The molecular axis of the ligand, expressed as unity vector $\text{\boldmath$\omega$}_\mathrm{L}$, was defined by the connecting line through two peripheric atoms of the ligand.
 The value of $k_\theta$ should be chosen high enough to prevent transitions between different ligand orientations. 
 As in case of the translational restraint, the estimate for $\Delta G^\circ_\mathrm{bind}$ should be independent of the concrete choice of $k_\theta$.
-In case of a translationally and rotationally restrained host aligned along the $z$-axis of the laboratory coordinate system of the simulation box without orientational restraint on the ligand, the approach corresponds to the original setup described in Ref.~\citenum{doudou2009standard}.
+In case of a translationally and rotationally restrained host aligned along the $z$-axis without orientational restraint on the ligand, the approach corresponds to the original setup described in Ref.~\citenum{doudou2009standard}.
 In this case, the order parameter $\zeta$ corresponds to the Cartesian $z$-component of $\text{\boldmath $r$}_\mathrm{HL}$ and $\rho$ becomes $\rho = \sqrt{\Delta x^2 + \Delta y^2}$.
 Here, $\Delta x$ and $\Delta y$ denote the orthogonal displacements of the ligand's COM from the central $z$-axis.
 
@@ -423,7 +424,7 @@ The GROMOS biomolecular force field was applied throughout this work using the 5
 $\alpha$CD, respectively. 
 The standard atom types 12 and 20 were used to represent the CNT carbon and hydrogen atoms, respectively. 
 All systems were solvated in water based on the three-site simple point charge (SPC) water model~\cite{berendsen1981interaction}.
-Simulations were conducted under periodic boundary conditions using the leapfrog algorithm~\cite{eastwood1981computer} for integrating Newton's equations of motion with a time step of 2~fs.
+Simulations were conducted under periodic boundary conditions using the leap-frog algorithm~\cite{eastwood1981computer} for integrating Newton's equations of motion with a time step of 2~fs.
 The majority of simulations were performed with the GROMACS 2016.4 program package~\cite{berendsen1995gromacs, hess2008gromacs, abraham2015gromacs}.
 In the light of recent publications reporting on the sensitivity of simulation results on the choice of the pairlist algorithm, the electrostatics treatment, the cut-off scheme or other 
 technical details~\cite{silva2018impact, gonccalves2019influence, reisser2017real, loeffler2018reproducibility}, complementary simulations were conducted with the GROMOS11 program package (release version 1.5.0)~\cite{kunz2012new, riniker2011calculation, schmid2012architecture} which has different recommended settings.
@@ -450,7 +451,7 @@ A Verlet-buffered neighbor list~\cite{pall2013flexible} which was updated every 
 The latter were modeled by the Lennard-Jones potential.
 Analytic dispersion corrections were applied for energy and pressure calculation.
 Long-range electrostatic interactions were treated with the smooth particle-mesh Ewald (PME) method~\cite{darden1993particle, essmann1995smooth} using a real-space cut-off of 1.4~nm with a cubic splines interpolation scheme and a grid spacing of 0.12~nm.
-In the most simulations reported here, the host's orientation was aligned along the $z$-axis of the simulation box (box dimensions: 3.4 x 3.4 x 12~nm) alongside with a translational 
+In most simulations reported here, the host's orientation was aligned along the $z$-axis of the simulation box (box dimensions: 3.4 x 3.4 x 12~nm) alongside with a translational 
 restraint ($500~\mathrm{kJ~mol}^{-1}~\mathrm{nm}^{-2}$) to keep its COM close to the box center.
 The bias on the orientation was realized by an orientational restraint ($500~\mathrm{kJ~mol^{-1}~rad^{-2}}$) acting on the angle between the host's symmetry axis and the external $z$-axis.
 Biased collective variables were written to file every 100 steps.
@@ -494,7 +495,7 @@ Biased collective variables were written to file every 100 steps.
 
 \begin{table*}[ht]
 \caption{\label{tbl:overview_RF}
-Overview about simulated systems based on the reaction field treatment for long-range electrostatics using different cut-off schemes (SR, TR) and pairlist generation schemes (CG, AT) as 
+Overview of simulated systems based on the reaction field treatment for long-range electrostatics using different cut-off schemes (SR, TR) and pairlist generation schemes (CG, AT) as 
 specified in the main text (c.f. Sec.~\ref{sec:simparam}). 
 All simulations were conducted with the GROMOS MD package. 
 The CNT was aligned along the $z$-axis of the computational box such that the order parameter $\zeta$ corresponds to the $z$-component of the COM-COM separation vector 
@@ -643,7 +644,7 @@ Influence of the translational restraint settings on the calculated standard bin
 Corresponding PMFs are depicted in Fig.~\ref{fig:study_restr_lig}. 
 First three columns specify the parameters used for the flat-bottom potential $U_\rho$ (c.f. Eq.~(\ref{eq:ort_restr})). 
 Calculations of $l_\mathrm{b}$, $A_{\mathrm{u},\rho}$ and $\Delta G^\circ_\mathrm{bind}$ were performed according to Eq.~(\ref{eq:lb}), Eq.~(\ref{eq:Au_2}) and Eq.~(\ref{eq:DG0_2}), respectively. 
-The contribution of the translational restraint in the bound state $\Delta G_\rho$ was calculated using the MBAR estimator from a sequence of simulations in the bound state with force constants $k_\rho$ varying from zero to the final value as given above. Error estimates refer to the UI result.
+The contribution of the translational restraint in the bound state $\Delta G_\rho$ was calculated using the MBAR estimator from a sequence of simulations in the bound state with force constants $k_\rho$ varying from zero to the final value as given in the table. Error estimates refer to the UI result.
 }
 \centering
 \begin{tabular}{ccc ccc ccc}\hline
@@ -1276,7 +1277,7 @@ In all simulations, long-range electrostatics were treated with  the particle-me
 \begin{table*}[htb!]
 \caption{\label{tbl:DDM} 
 Calculated standard binding free enthalpies $\Delta G^\circ_\mathrm{bind}$ from  double decoupling for unpolar methane, ethane and elongated ethane binding to unpolar CNT.
-The two ethane models contain two rows of data, corresponding to the setup with and without orientational restraint (OR).
+For each ethane model two data sets are presented, corresponding to the setup with and without orientational restraint (OR).
 Detailed description of the double decoupling approach can be found in the appendix.
 $\Delta G^\mathrm{L \rightarrow D}_\mathrm{u}$, $\Delta G^\mathrm{L \rightarrow D}_\mathrm{b, R}$ and $\Delta G^\mathrm{L}_\mathrm{b, 0 \rightarrow R}$ were calculated using the MBAR estimator.
 The contribution for removing the restraints from the decoupled ligand ($\Delta G^\mathrm{D}_\mathrm{b, R \rightarrow 0}$) was calculated analytically according to Eq.~(\ref{eq:DGrottrans_DDM}).
